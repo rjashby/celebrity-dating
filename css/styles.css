@@ -5,9 +5,17 @@ body  {
 h1  { 
   font-family: cursive;
   text-align: center;
+  
 }
 
 #Harry {
   display: none;
 }
 
+#Ron {
+  display: none;
+}
+
+#Neville {
+  display: none;
+}
